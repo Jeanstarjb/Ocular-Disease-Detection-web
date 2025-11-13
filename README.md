@@ -37,6 +37,10 @@ A clean, modern, and authoritative single-page website built with Tailwind CSS a
 - Reduced-motion-friendly smooth scrolling
 - High contrast and focus-visible styles via Tailwind
 
+## Live Demo
+
+- GitHub Pages: https://jeanstarjb.github.io/Ocular-Disease-Detection-web/
+
 ## Deployment
 
 ### Option A: Netlify
