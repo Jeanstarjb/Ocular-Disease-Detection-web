@@ -39,6 +39,8 @@ A clean, modern, and authoritative single-page website built with Tailwind CSS a
 
 ## Live Demo
 
+[![Live Demo](https://img.shields.io/badge/Live-GitHub%20Pages-14b8a6?style=flat&logo=github)](https://jeanstarjb.github.io/Ocular-Disease-Detection-web/)
+
 - GitHub Pages: https://jeanstarjb.github.io/Ocular-Disease-Detection-web/
 
 ## Deployment
