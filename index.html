@@ -110,9 +110,14 @@
     <!-- Hero Section -->
     <section id="home" class="relative h-[80vh] md:h-[88vh] flex items-center justify-center overflow-hidden bg-radial-navy">
         <!-- Background image -->
-        <div class="absolute inset-0">
-            <img src="https://images.unsplash.com/photo-1581092334964-03605798d8d4?auto=format&fit=crop&w=2000&q=80" alt="Clean laboratory environment" class="w-full h-full object-cover" width="2000" height="1333" decoding="async" />
+        <div class="absolute inset-0 overflow-hidden">
+            <!-- Abstract data visualization background -->
+            <img src="https://images.unsplash.com/photo-1534751516642-a1af1ef26a56?auto=format&fit=crop&w=2000&q=80" alt="Abstract data visualization background" class="w-full h-full object-cover" width="2000" height="1200" decoding="async" />
             <div class="absolute inset-0 bg-white/70"></div>
+            <!-- Animated teal/navy blobs -->
+            <div class="pointer-events-none absolute -top-24 -left-24 w-80 h-80 rounded-full bg-teal/30 blur-3xl animate-float"></div>
+            <div class="pointer-events-none absolute top-1/3 -right-24 w-96 h-96 rounded-full bg-navy/20 blur-3xl animate-float" style="animation-delay:1.5s"></div>
+            <div class="pointer-events-none absolute bottom-0 left-1/3 w-72 h-72 rounded-full bg-teal/20 blur-3xl animate-float" style="animation-delay:3s"></div>
         </div>
         
         <div class="container mx-auto px-6 text-center relative z-10 animate-fade-in-up">
